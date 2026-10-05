@@ -6,9 +6,7 @@ export default function App() {
   return (
     <div className="app-root">
       <Header />
-      <main>
-        <Practice />
-      </main>
+      <Practice />
     </div>
   )
 }
